@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Engine.
 
 namespace symmetricalAdventure
 {
@@ -20,10 +21,12 @@ namespace symmetricalAdventure
     /// </summary>
     public partial class MainWindow : Window
     {
+        private GameSession _gameSession;
+
         public MainWindow()
         {
             InitializeComponent();
-            int a = 5;
+            
         }
     }
 }
