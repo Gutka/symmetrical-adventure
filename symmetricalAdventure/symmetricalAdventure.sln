@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "symmetricalAdventure", "symmetricalAdventure\symmetricalAdventure.csproj", "{59953013-F2FB-45CA-88E3-6DDE33798684}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFUI", "symmetricalAdventure\WPFUI.csproj", "{59953013-F2FB-45CA-88E3-6DDE33798684}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
