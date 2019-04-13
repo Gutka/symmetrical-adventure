@@ -23,6 +23,7 @@ namespace symmetricalAdventure
         public MainWindow()
         {
             InitializeComponent();
+            int a = 5;
         }
     }
 }
