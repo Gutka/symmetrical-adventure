@@ -64,7 +64,7 @@ namespace Engine.ViewModels
         {
             CurrentPlayer = new Player
             {
-                Name = "Vyfetlo",
+                Name = "Gutka",
                 CharacterClass = "Fighter",
                 HitPoints = 10,
                 Gold = 1000000,
